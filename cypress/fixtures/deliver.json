@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Joice Sorrilha",
+        "cpf": "40629354065",
+        "email": "joice@sorrilha.com",
+        "whatsapp": "11954396447",
+        "address": {
+            "postalcode": "07114-000",
+            "street": "Avenida Doutor Renato de Andrade Maia",
+            "number": "1000",
+            "details": "sala 20",
+            "district": "Jardim Maia",
+            "city_state": "Guarulhos/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Giulia Rodrigues",
+        "cpf": "99999999999",
+        "email": "teste2@stestecypress.com",
+        "whatsapp": "11954396447",
+        "address": {
+            "postalcode": "07114-000",
+            "street": "Avenida Doutor Renato de Andrade Maia",
+            "number": "1000",
+            "details": "sala 20",
+            "district": "Jardim Maia",
+            "city_state": "Guarulhos/SP"
+    },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Joice Rodrigues Sorrilha",
+        "cpf": "40629354065",
+        "email": "thiago.com.br",
+        "whatsapp": "11954396447",
+        "address": {
+            "postalcode": "07114-000",
+            "street": "Avenida Doutor Renato de Andrade Maia",
+            "number": "1000",
+            "details": "sala 20",
+            "district": "Jardim Maia",
+            "city_state": "Guarulhos/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
